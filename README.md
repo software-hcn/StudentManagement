@@ -45,6 +45,6 @@ INSERT INTO student(STID,STNAME,STSEX,STAGE,STPHONE) VALUES (123,'fuzhufuzhu',bo
 
 ### 好了，J2EE项目从0开始（一）--学生管理系统。本博客是学习J2EE开始的第一个小项目，这也是J2EE项目从0开始系列的（一），我会把我的理解、思考路线、项目构建一一详细写在这一系列的博客中。欢迎在下面指出错误，共同学习！
 
-### 更多内容，可以访问[JackFrost的博客](https://blog.csdn.net/weixin_37888728)
+### 更多内容，可以访问[我的的博客](https://blog.csdn.net/weixin_37888728)
 
 
